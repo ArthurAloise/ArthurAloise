@@ -1,8 +1,8 @@
-## Fala comigo! Eu o sou Arthur Aloise, progamador e Streamer nas horas vagas.
-- 👀 I’m interested in melhorar meu repertório na programação.
-- 🌱 I’m currently learning Java, o famoso.
-- 🧙‍♂️ I’m looking to collaborate on em pequenos programas desenvolvidos em Java.
-- 📫 How to reach me: Gmail: arthur.aloise@gmail.com
+## Olá! Eu sou o Arthur Aloise, progamador e Streamer nas horas vagas.
+- 🌱 I'm currently learning Java, and other programming languages.
+- 👀 I’m interested in improve my programming repertoire.
+- 🧙‍♂️ I am interested in sharing my learning.
+- 📫 How to reach me ---> Gmail: arthur.aloise@gmail.com
 
 <div align="center">
 <a href="https://github.com/ArthurAloise/ArthurAloise">
