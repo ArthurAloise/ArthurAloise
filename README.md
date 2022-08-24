@@ -13,7 +13,7 @@
 <div 
 style="display: inline_block"><br>
 <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="right" alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://im3.ezgif.com/tmp/ezgif-3-6887aa5292.gif">
+<img align="right" alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/940355879583232034/1011841111444172820/painel-sublimado-baby-yoda-21384.png?width=546&height=546">
 </div>
 
 ##
