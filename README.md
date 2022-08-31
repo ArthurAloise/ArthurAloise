@@ -2,7 +2,7 @@
 - 🌱 I'm currently learning Java, and other programming languages.
 - 👀 I’m interested in improve my programming repertoire.
 - 🧙‍♂️ I am interested in sharing my learning.
-- 📫 How to find: arthur.aloise@gmail.com
+- 📫 Contat: arthur.aloise@gmail.com
 
 <div align="center">
 <a href="https://github.com/ArthurAloise/ArthurAloise">
