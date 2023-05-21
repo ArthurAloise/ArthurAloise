@@ -1,4 +1,4 @@
-## Olá! Eu sou o Arthur Aloise, progamador e Streamer nas horas vagas.
+## Olá! Eu sou o Arthur Aloise!
 - 🌱 I'm currently learning Java, and other programming languages.
 - 👀 I’m interested in improve my programming repertoire.
 - 🧙‍♂️ I am interested in sharing my learning.
