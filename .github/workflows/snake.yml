@@ -1,10 +1,7 @@
-# Nome da Actions:  
 name: Snake Game
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
   workflow_dispatch:
 
@@ -24,5 +21,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          runs-on: ubuntu-latest  # Atualize o Node.js para 16
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
