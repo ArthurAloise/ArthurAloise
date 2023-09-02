@@ -11,9 +11,14 @@
 </div>
 
 <div 
-style="display: inline_block"><br>
+align="center"><br>
 <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=148&color=ffffff" />
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://devicon-website.vercel.app/api/laravel/plain.svg" />
+<img align="center" alt="Rafa-Csharp" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=ffffff" />
+<img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=148&color=currentColor" />
+<img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor" />
+<img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" />
           
 <img align="right" alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/940355879583232034/1011845995073638491/the-mandalorian-baby-yoda-king-gildan-alyssa-x-kotai-transparent.png?width=511&height=546">
 </div>
