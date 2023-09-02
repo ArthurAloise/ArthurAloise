@@ -14,6 +14,7 @@
 style="display: inline_block"><br>
 <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="right" alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/940355879583232034/1011845995073638491/the-mandalorian-baby-yoda-king-gildan-alyssa-x-kotai-transparent.png?width=511&height=546">
+<img align="right" alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/940355879583232034/1011845995073638491/the-mandalorian-baby-yoda-king-gildan-alyssa-x-kotai-transparent.png?width=511&height=546">
 </div>
 
 ##
