@@ -20,7 +20,7 @@ align="center"><br>
 <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor" />
 <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" />
           
-<img align="right" alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/940355879583232034/1011845995073638491/the-mandalorian-baby-yoda-king-gildan-alyssa-x-kotai-transparent.png?width=511&height=546">
+<img align="right" alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHozdzNuOWVvbTRlcWYwbDZwMmRocHZrNGNnYmd5bWdkemw2b2Z0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3PBXqHjKL9GZhK2Yv/giphy.gif">
 </div>
 
 ##
